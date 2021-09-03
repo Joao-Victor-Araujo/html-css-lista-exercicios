@@ -1,0 +1,21 @@
+p{
+  color: red;  
+}
+p::first-letter{
+    text-transform: uppercase;
+}
+h1{
+    font-style: italic;
+    font-family: Versalete, sans-serif;
+    text-align: center;
+}
+#p1, h1{
+    text-align: right;
+}
+body{
+    background-color: rgb(65, 192, 186);
+}
+a{
+    text-decoration: none;
+    text-decoration: line-through 1px;
+}

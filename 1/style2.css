@@ -1,0 +1,17 @@
+img{
+    width: 150px;
+    height: 200px;
+}
+li{
+    color: indigo;
+    border: 2px solid pink;
+    
+}
+body{
+    text-align: center;
+    margin: 0 auto;
+    width: 15vw;
+}
+.fotos{
+    display: flex;
+}
